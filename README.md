@@ -96,7 +96,7 @@ plt.plot(x,y,'go')
 ![Screenshot 2025-04-19 115337](https://github.com/user-attachments/assets/aa33c264-535c-4da0-87d7-169a5480822b)
 
 
-
+# SINE WAVE FORM:
 
 ```
 import matplotlib.pyplot as plt
