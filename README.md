@@ -201,6 +201,9 @@ plt.show()
 
 ![Screenshot 2025-04-19 115748](https://github.com/user-attachments/assets/6958da2b-5521-4271-931c-0908adbdb32e)
 
+
+
+
 ```
 import matplotlib.pyplot as plt
 values = [5, 6, 3, 7, 2]
@@ -234,6 +237,8 @@ plt.show()
 ```
 ![Screenshot 2025-04-19 115913](https://github.com/user-attachments/assets/7c0fd16d-612b-4e6b-a8d5-8e2f39c49e41)
 
+# HISTOGRAM
+
 ```
 import matplotlib.pyplot as plt
 import numpy as np
@@ -248,6 +253,9 @@ plt.show()
 ```
 
 ![Screenshot 2025-04-19 115952](https://github.com/user-attachments/assets/ea0b71a8-c04f-42d5-a2a5-23b068ebb932)
+
+
+# BOX PLOT
 
 
 ```
@@ -267,6 +275,8 @@ ax.set_ylabel("values")
 ax.set_title("box plot")
 ```
 ![Screenshot 2025-04-19 120102](https://github.com/user-attachments/assets/d588fe20-8427-4d81-947d-f273a60bdbdd)
+
+# PIE CHART
 
 ```
 import matplotlib.pyplot as plt
