@@ -112,6 +112,7 @@ plt.show()
 
 ![Screenshot 2025-04-19 115416](https://github.com/user-attachments/assets/d2fafdb5-59fa-4f2f-99ad-ab618644f2cd)
 
+# SCATTER PLOT:
 
 ```
 import matplotlib.pyplot as plt
@@ -123,6 +124,9 @@ plt.scatter(x_values, y_values, s=30, color="red")
 plt.show()
 ```
 ![Screenshot 2025-04-19 115456](https://github.com/user-attachments/assets/da3a08d8-43c8-46b2-991a-6deebd16f292)
+
+
+# AREA CHART:
 
 ```
 import matplotlib.pyplot as plt
@@ -137,6 +141,10 @@ plt.legend(['y1'])
 plt.show()
 ```
 ![Screenshot 2025-04-19 115549](https://github.com/user-attachments/assets/12d915e2-ab5a-49ee-ad5e-cc2275d1d734)
+
+
+# STACKED AREA CHART
+
 
 ```
 import matplotlib.pyplot as plt
@@ -153,6 +161,10 @@ plt.show()
 ```
 
 ![Screenshot 2025-04-19 115629](https://github.com/user-attachments/assets/3002db28-65af-4609-8b0a-7577da141058)
+
+
+# SPLINE CHART
+
 
 ```
 import numpy as np
@@ -174,6 +186,9 @@ plt.show()
 ```
 
 ![Screenshot 2025-04-19 115710](https://github.com/user-attachments/assets/94cbd341-3f79-4e73-8d71-f0910af96124)
+
+
+# BAR GRAPHS
 
 ```
 import numpy as np
